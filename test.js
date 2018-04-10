@@ -1,2 +1,3 @@
-document.write("WORKS FFS");
-document.write("Hello World!");
+function tests() {
+    return document.write("Hello World!");
+}
